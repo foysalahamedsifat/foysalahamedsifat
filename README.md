@@ -23,20 +23,11 @@
 ---
 
 ### 🚀 Selected Projects
-*(Most professional work is in private repos — these public demos represent my technical approach)*
 
-- **[Real Life Simulator (Xello Demo)](https://github.com/foysalahamedsifat/real-life-simulator-demo-angular-dotnet)**  
-  Educational gamification project inspired by my work at Xello — Angular + .NET Core + SignalR (mock data).  
-  Increased student engagement by 25% in production.
-
-- **[YMS Billing System](https://github.com/foysalahamedsifat/yms-billing-demo)**  
-  Migrated legacy desktop app to ASP.NET Core web platform; reduced manual billing errors by 35%.
-
-- **[ERP Lite](https://github.com/foysalahamedsifat/erp-lite-demo)**  
-  Multi-company ERP (Sales + Inventory) — scalable architecture using Angular + ASP.NET Core.
-
-- **[Document Management System (DMS)](https://github.com/foysalahamedsifat/dms-demo)**  
-  OCR, workflow automation, and secure document handling.
+- **Real Life Simulator (Xello)** — Angular + ASP.NET Core | Designed Ed-gaming tools using InkJS and SignalR; enhanced real-time career simulations for 1000+ students.  
+- **YMS Billing System** — ASP.NET Core + SQL Server | Migrated full desktop app to web; automated medical billing and reduced manual errors by 35%.  
+- **ERP System (Square Group)** — Full-stack lead; implemented primary sales, secondary sales, and primary-secondary distributions. Developed manufacturing automation for furniture production, sales, purchase, and order distribution management.  
+- **Document Management System (DMS)** — Designed document management tools (OCR, merge, rotate); added user roles and security.  
 
 ---
 
