@@ -67,7 +67,6 @@
 ![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat&show_icons=true&theme=radical)
 
 ---
-![GitHub Stats](https://github-readme-stats-multiuser.vercel.app/api?usernames=foysalahamedsifat,foysalahamedsifat-xello,foyosalahamedsifat-centennial&show_icons=true&theme=default)
 
 ### 🌐 Links & Contact
 - Portfolio: https://foysalahamedsifat.github.io/me/  
