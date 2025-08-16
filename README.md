@@ -61,13 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-*(My primary coding is done in private/company repos — public activity below is from personal and demo projects)*
-
-![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat&show_icons=true&theme=radical)
-
----
-
 ### 🌐 Links & Contact
 - Portfolio: https://foysalahamedsifat.github.io/me/  
 - LinkedIn: https://www.linkedin.com/in/foysal-ahamed-sifat-498483169  
