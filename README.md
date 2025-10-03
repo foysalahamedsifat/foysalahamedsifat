@@ -1,8 +1,8 @@
 # Hi, I'm Foysal Ahamed Sifat 👋
 
-🚀 **Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist**  
-💼 5+ years building scalable, enterprise-grade solutions with **ASP.NET Core, Angular & Azure**  
-📍 Toronto, ON
+**Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist**  
+5+ years building scalable, enterprise-grade solutions with **ASP.NET Core, Angular & Azure**  
+Toronto, ON
 ---
 
 ### 👨‍💻 About Me
