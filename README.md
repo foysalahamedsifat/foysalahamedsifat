@@ -1,10 +1,10 @@
 <!-- 🟣 FuelTheStack Dark Neon Profile Theme -->
 
-<h1 align="center">Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span></h1>
+<h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span> 👋</h1>
 <h3 align="center">Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist</h3>
 
 <p align="center">
-  <b>5+ years</b> crafting scalable, enterprise-grade apps with <b>ASP.NET Core</b>, <b>Angular</b> & <b>Azure</b> ☁️<br/>
+  <b>5+ years</b> building scalable, enterprise-grade apps with <b>ASP.NET Core</b>, <b>Angular</b> & <b>Azure</b> ☁️<br/>
   Based in <b>Toronto, ON</b> 🇨🇦 · Turning ideas into impact ⚙️
 </p>
 
@@ -12,10 +12,17 @@
 
 ### 👨‍💻 About Me
 
-🧠 Passionate about **enterprise software**, **EdTech**, and **digital transformation**.  
-💼 Currently at **[Xello](https://xello.world)** — building *Real-Life Simulators* and *Financial Literacy Gamification* tools with **Angular**, **.NET Core**, **InkJS**, and **SignalR**.  
-🚀 I specialize in designing scalable, maintainable architectures with clean code principles.  
-🎓 **Postgraduate Diploma — Software Engineering Technology**, Centennial College | GPA: 3.81 / 4.5  
+I’m a **Full-Stack Software Engineer** passionate about building **impactful enterprise applications** and **EdTech solutions** that help people learn, grow, and work smarter.  
+
+💡 My journey began in **Dhaka, Bangladesh**, where I earned a **BSc in Computer Science and Engineering (AIUB)** with a strong foundation in software design and system architecture.  
+After gaining hands-on experience in ERP, FinTech, and automation projects, I moved to **Toronto, Canada** to advance my skills through a **Postgraduate Diploma in Software Engineering Technology (Centennial College)** — achieving a **GPA of 3.81 / 4.5**.  
+
+🚀 Currently, I’m part of **[Xello](https://xello.world)**, where I’m developing **Real-Life Simulators** and **Financial Literacy Gamification** modules using **Angular**, **.NET Core**, **InkJS**, and **SignalR**.  
+🎯 My focus is on creating systems that are not only **clean and scalable**, but also **delightfully usable** — blending performance with purpose.  
+
+Beyond work, I’m the founder of **[FuelTheStack](https://fuelthestack.com)** — a learning platform empowering developers with tutorials, problem-solving guides, and coding challenges in **.NET**, **Angular**, **SQL**, and **Cloud Computing**.  
+
+> “Clean architecture, scalable solutions, and empowering users — that’s my code philosophy.”  
 
 ---
 
