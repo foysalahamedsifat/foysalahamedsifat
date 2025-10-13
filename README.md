@@ -73,11 +73,9 @@ reducing manual processing time by **70%**.
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalahamedsifat&theme=radical&hide_border=true&ring=00ffff&fire=ff8c00&currStreakLabel=ffffff" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalahamedsifat&layout=compact&theme=radical&hide_border=true&title_color=ff8c00" />
 </p>
+
 
 ---
 
