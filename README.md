@@ -1,4 +1,4 @@
-<!-- 🟣 FuelTheStack Dark Neon Profile Theme -->
+<!-- FuelTheStack Dark Neon Profile Theme -->
 
 <h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span> 👋</h1>
 <h3 align="center">Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist</h3>
@@ -9,16 +9,16 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me
+About Me
 
 I’m a **Full-Stack Software Engineer** passionate about building **impactful enterprise applications** and **EdTech solutions** that help people learn, grow, and work smarter.  
 
-💡 My journey began in **Dhaka, Bangladesh**, where I earned a **BSc in Computer Science and Engineering (AIUB)** with a strong foundation in software design and system architecture.  
+My journey began in **Dhaka, Bangladesh**, where I earned a **BSc in Computer Science and Engineering (AIUB)** with a strong foundation in software design and system architecture.  
 After gaining hands-on experience in ERP, FinTech, and automation projects, I moved to **Toronto, Canada** to advance my skills through a **Postgraduate Diploma in Software Engineering Technology (Centennial College)** — achieving a **GPA of 3.81 / 4.5**.  
 
-🚀 Currently, I’m part of **[Xello](https://xello.world)**, where I’m developing **Real-Life Simulators** and **Financial Literacy Gamification** modules using **Angular**, **.NET Core**, **InkJS**, and **SignalR**.  
-🎯 My focus is on creating systems that are not only **clean and scalable**, but also **delightfully usable** — blending performance with purpose.  
+Currently, I’m part of **[Xello](https://xello.world)**, where I’m developing **Real-Life Simulators** and **Financial Literacy Gamification** modules using **Angular**, **.NET Core**, **InkJS**, and **SignalR**.  
+
+I focus on creating systems that are not only **clean and scalable**, but also **delightfully usable** — blending performance with purpose.  
 
 Beyond work, I’m the founder of **[FuelTheStack](https://fuelthestack.com)** — a learning platform empowering developers with tutorials, problem-solving guides, and coding challenges in **.NET**, **Angular**, **SQL**, and **Cloud Computing**.  
 
@@ -38,38 +38,38 @@ Beyond work, I’m the founder of **[FuelTheStack](https://fuelthestack.com)** �
 
 ---
 
-### 🏆 Highlighted Projects
+### Highlighted Projects
 
-#### 🎮 **Real Life Simulator** — *Xello*
+#### **Real Life Simulator** — *Xello*
 Gamified FinLit experience for 1000+ students using **Angular + .NET Core + InkJS + SignalR**.  
 Boosted engagement by **25%** through story-based interactions and real-time sync.
 
-#### 💳 **YMS Billing System** — *WIMTACH*
+#### **YMS Billing System** — *WIMTACH*
 Migrated a legacy medical billing app to a modern **ASP.NET Core web app**,  
 automating workflows and cutting maintenance by **40%**.
 
-#### 🏭 **ERP Suite** — *Square Group*
+#### **ERP Suite** — *Square Group*
 Full-stack lead for a multi-company ERP platform — built **Sales, Purchase, Distribution**, and **Manufacturing Automation** modules.
 
-#### 🗂️ **Paperless Office Management**
+#### **Paperless Office Management**
 Developed OCR-powered DMS with **workflow**, **approval**, and **role-based security**,  
 reducing manual processing time by **70%**.
 
 ---
 
-### 💼 Professional Journey
+### Professional Journey
 
 | Role | Company | Duration |
 |------|----------|----------|
-| 🧠 **Software Engineer** | [Xello](https://xello.world) | Nov 2024 – Present |
-| 💻 **Full-Stack Developer** | [WIMTACH, Centennial College](https://www.centennialcollege.ca) | Feb 2024 – Nov 2024 |
-| 🏢 **Programmer** | Square InformatiX Ltd. (Square Group) | Apr 2022 – Aug 2023 |
-| 💱 **Software Engineer (Freelance)** | IT Grow Division Ltd. | Sept 2021 – Oct 2023 |
-| 🪑 **Software Engineer** | DI System Ltd. | Aug 2020 – Aug 2021 |
+| **Software Engineer** | [Xello](https://xello.world) | Nov 2024 – Present |
+| **Full-Stack Developer** | [WIMTACH, Centennial College](https://www.centennialcollege.ca) | Feb 2024 – Nov 2024 |
+| **Programmer** | Square InformatiX Ltd. (Square Group) | Apr 2022 – Aug 2023 |
+| **Software Engineer (Freelance)** | IT Grow Division Ltd. | Sept 2021 – Oct 2023 |
+| **Software Engineer** | DI System Ltd. | Aug 2020 – Aug 2021 |
 
 ---
 
-### 📊 GitHub Stats (Neon Mode)
+### GitHub Stats (Neon Mode)
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalahamedsifat&theme=radical&hide_border=true&ring=00ffff&fire=ff8c00&currStreakLabel=ffffff" />
@@ -81,7 +81,7 @@ reducing manual processing time by **70%**.
 
 ---
 
-### 🌀 Activity Graph
+### Activity Graph
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -91,7 +91,7 @@ reducing manual processing time by **70%**.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://foysalahamedsifat.github.io/me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=00ffff" /></a>
