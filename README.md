@@ -1,6 +1,6 @@
 <!-- FuelTheStack Dark Neon Profile Theme -->
 
-<h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span> 👋</h1>
+<h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span></h1>
 <h3 align="center">Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist</h3>
 
 <p align="center">
@@ -30,11 +30,11 @@ Beyond work, I’m the founder of **[FuelTheStack](https://fuelthestack.com)** �
 
 | Domain | Technologies |
 |--------|---------------|
-| 💻 **Languages** | C#, TypeScript, JavaScript, Python, Java |
-| 🧩 **Frameworks** | ASP.NET Core, Angular, React, SignalR, InkJS |
-| 🗄️ **Databases** | SQL Server, MySQL, PostgreSQL |
-| ☁️ **Cloud & DevOps** | Azure, AWS, Docker, Azure DevOps, Jenkins |
-| 🔗 **Others** | Redis, RabbitMQ, OCR, REST APIs, Swagger, CI/CD |
+| **Languages** | C#, TypeScript, JavaScript, Python, Java |
+| **Frameworks** | ASP.NET Core, Angular, React, SignalR, InkJS |
+| **Databases** | SQL Server, MySQL, PostgreSQL |
+| **Cloud & DevOps** | Azure, AWS, Docker, Azure DevOps, Jenkins |
+| **Others** | Redis, RabbitMQ, OCR, REST APIs, Swagger, CI/CD |
 
 ---
 
