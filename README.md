@@ -1,6 +1,6 @@
 <!-- FuelTheStack Dark Neon Profile Theme -->
 
-<h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span></h1>
+<h1 align="center">Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span></h1>
 <h3 align="center">Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Beyond work, I’m the founder of **[FuelTheStack](https://fuelthestack.com)** �
 
 ---
 
-### ⚙️ Tech Arsenal
+### Tech Arsenal
 
 | Domain | Technologies |
 |--------|---------------|
