@@ -1,7 +1,7 @@
 <!-- FuelTheStack Dark Neon Profile Theme -->
 
 <h1 align="center">Hey, I'm <span style="color:#00ffff;">Foysal Ahamed Sifat</span></h1>
-<h3 align="center">Full-Stack .NET Developer | Entrepreneur | EdTech & Enterprise App Specialist</h3>
+<h3 align="center">Full-Stack .NET Developer | EdTech & Enterprise App Specialist</h3>
 
 <p align="center">
   <b>5+ years</b> building scalable, enterprise-grade apps with <b>ASP.NET Core</b>, <b>Angular</b> & <b>Azure</b> ☁️<br/>
