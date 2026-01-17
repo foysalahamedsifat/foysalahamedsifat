@@ -136,12 +136,17 @@ Outside of work, I run **FuelTheStack**, where I share tutorials, problem-solvin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalahamedsifat&theme=radical&hide_border=true&ring=00ffff&fire=ff8c00" />
+  <img 
+    src="https://streak-stats.demolab.com?user=foysalahamedsifat&theme=dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalahamedsifat&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalahamedsifat&layout=compact&theme=dark&hide_border=true"
+  />
 </p>
+
 
 ---
 
