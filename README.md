@@ -133,23 +133,6 @@ Outside of work, I run **FuelTheStack**, where I share tutorials, problem-solvin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=foysalahamedsifat&theme=dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalahamedsifat&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
-
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
